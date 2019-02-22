@@ -4,7 +4,7 @@
 ## NOTE
 🚧 此项目依然在开发中, 工程量较大, 等段时间全部开发到后期以后会全部开源出来大家一起学习。
 
-## Backend
+<h1 align="center">Backend</h1>
 ### 🔨 技术栈
 * Python3.6
 * Django2.0
@@ -20,7 +20,7 @@
 
 
 
-## Front
+<h1 align="center">Front</h1>
 ### 🔨 技术栈
 * Vue
 * axios
@@ -32,7 +32,7 @@
 
 
 
-## Mobile
+<h1 align="center">Mobile</h1>
 ### 🔨 技术栈
 * Flutter
 
@@ -46,7 +46,7 @@
 </div>
 
 
-## WechatMiniProgram
+<h1 align="center">WechatMiniProgram</h1>
 ## 🔨 技术栈
 * mpvue
 
