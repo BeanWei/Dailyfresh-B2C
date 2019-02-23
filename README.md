@@ -43,9 +43,10 @@
 
 ## 🌟 截图
 <div>
-    <img src='./Mobile/Screenshots/Home.PNG' width=280>
-    <img src='./Mobile/Screenshots/Category_Goods_List.PNG' width=280>
-    <img src='./Mobile/Screenshots/Goods_Detail.PNG' width=280>
+    <img src='./Mobile/Screenshots/Home.PNG' width=220>
+    <img src='./Mobile/Screenshots/Category_Goods_List.PNG' width=220>
+    <img src='./Mobile/Screenshots/Goods_Detail.PNG' width=220>
+    <img src='./Mobile/Screenshots/Cart.PNG' width=220>
 </div>
 
 
