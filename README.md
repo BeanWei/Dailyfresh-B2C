@@ -19,10 +19,12 @@
 
 ## 🌟 截图
 <div>
-    <img src='./Backend/Screenshots/Admin1.PNG' width=220>
-    <img src='./Backend/Screenshots/Admin2.PNG' width=220>
-    <img src='./Backend/Screenshots/Admin3.PNG' width=220>
-    <img src='./Backend/Screenshots/Admin4.PNG' width=220>
+    <img src='./Backend/Screenshots/Admin1.PNG' width=440>
+    <img src='./Backend/Screenshots/Admin2.PNG' width=440>
+</div>
+<div>
+    <img src='./Backend/Screenshots/Admin3.PNG' width=440>
+    <img src='./Backend/Screenshots/Admin4.PNG' width=440>
 </div>
 
 
@@ -37,15 +39,19 @@
 
 ## 🌟 截图
 <div>
-    <img src='./Front/Screenshots/Home1.PNG' width=220>
-    <img src='./Front/Screenshots/Home2.PNG' width=220>
-    <img src='./Front/Screenshots/Detail.PNG' width=220>
-    <img src='./Front/Screenshots/List.PNG' width=220>
+    <img src='./Front/Screenshots/Home1.PNG' width=440>
+    <img src='./Front/Screenshots/Home2.PNG' width=440>
 </div>
 <div>
-    <img src='./Front/Screenshots/Login.PNG' width=220>
-    <img src='./Front/Screenshots/Cart.PNG' width=220>
-    <img src='./Front/Screenshots/NoGoods.PNG' width=220>
+    <img src='./Front/Screenshots/Detail.PNG' width=440>
+    <img src='./Front/Screenshots/List.PNG' width=440>
+</div>
+<div>
+    <img src='./Front/Screenshots/Login.PNG' width=440>
+    <img src='./Front/Screenshots/Cart.PNG' width=440>
+</div>
+<div>
+    <img src='./Front/Screenshots/NoGoods.PNG' width=440>
 </div>
 
 
