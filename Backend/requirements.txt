@@ -40,7 +40,7 @@ pycparser==2.19
 PyJWT==1.6.0
 python3-openid==3.1.0
 pytz==2018.3
-PyYAML==3.12
+PyYAML==5.4
 raven==6.10.0
 redis==3.2.0
 requests==2.18.4
