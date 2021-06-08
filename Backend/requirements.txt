@@ -35,7 +35,7 @@ Naked==0.1.31
 oauthlib==3.0.1
 odfpy==1.3.6
 openpyxl==2.5.0
-Pillow==5.0.0
+Pillow==8.2.0
 pycparser==2.19
 PyJWT==1.6.0
 python3-openid==3.1.0
